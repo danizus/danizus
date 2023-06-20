@@ -1,5 +1,12 @@
 
-<h1 align="center">Hi ,I am Daniyal</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="300" height="200"/>
+</div>
+<h1 align="center">Hey! Daniyal Here</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danizus&label=Profile%20views&color=0e75b6&style=flat" alt="DaniyalAhmed" /> </p>
+<div align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" width="500" height="500"/>
+</div>
 
 
 
