@@ -5,7 +5,7 @@
 <h1 align="center">Hey! Daniyal Here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danizus&label=Profile%20views&color=0e75b6&style=flat" alt="DaniyalAhmed" /> </p>
 <div align="center">
-  <img src="["[https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562](https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif)](https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif)" width="500" height="500"/>
+  <img src="[["[https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562](https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif)](https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif)](https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif)" width="500" height="500"/>
 </div>
 
 
