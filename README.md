@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Data Structure & Algorithms & Data Science**
+- 🌱 I’m currently learning **Data Structure & Algorithms & ReactJs**
 
 - 💬 Ask me about **anything you want.**
 
